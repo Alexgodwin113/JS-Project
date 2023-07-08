@@ -175,6 +175,6 @@ const game = () => {
     }    
 };
 
-game();
+game(); 
 
 
